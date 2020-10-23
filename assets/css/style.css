@@ -1,0 +1,17 @@
+body [class*="col-"] {
+  text-align: center;
+  padding: 0 100px 0 100px;
+}
+
+.row {
+  margin-top: 100px;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+h3 {
+  padding: 20px;
+}
